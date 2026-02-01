@@ -18,7 +18,7 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 Open index.html in your browser
 
 ## 📸 Screenshot
-(Add screenshot here later)
+![image_alt](https://github.com/littlebrother04/To-do-list/blob/fd5244b71a3d7f5aabed054ce7ff4277a600af6e/SS.png)
 
 ## Author
 Himanshu
